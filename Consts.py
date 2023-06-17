@@ -1,0 +1,16 @@
+FULL_RUN_MODE = False  # also print result to excel
+EXCEL_FILE = r'OG in progress.xlsx'
+EXCEL_FILE_RESULTS = r'results.xlsx'
+SHEET_NAME = 'Sheet1'
+PAPERS_FOLDER = 'papers'
+STATUS_FOLDER = 'status'
+PICKLES_FOLDER = 'pickles'
+NOT_FOUND_FOLDER = "not_found"
+XML_FOLDER = 'xml'
+ACCURACY_FILE_NAME = 'real.txt'
+PROJECT_PATH = 'C:/Users/Bar Ifrah/Documents/second_degree/OCRtoGazzeteExtractPicturesAndText'
+PATH_WKTHMLTOIMAGE = r'C:\Program Files\wkhtmltopdf\bin\wkhtmltoimage.exe'
+IMAGE_OPTIONS = {'format': 'png', 'width': '250'}
+PAGE_DIVIDER_X_POSITION = 4000
+XML_HANDLER_1920_MONTH = 5
+XML_HANDLER_1920_YEAR = 28
